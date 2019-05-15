@@ -1,1 +1,1 @@
-This is only for jenkis demo purpose.
+This is only for jenkins demo purpose.
